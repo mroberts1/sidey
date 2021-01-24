@@ -1,7 +1,7 @@
-site: Sidey
+site: Martin Roberts
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Martin Roberts
+description: Stream of consciousness
 twitter:
   username: #yourusername
   card: summary
@@ -20,6 +20,7 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
+  - vendor/bundle/
   
 compress_html:
   clippings: all
