@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Staticman comments on a Jekyll site
-description: Generating comments on static sites with Staticman
-summary: Generating comments on static sites with Staticman.
+title: Welcome to my stream of consciousness
+description: A test description
+summary: A test summary
 comments: true
 tags: [jekyll, coding]
 ---
