@@ -1,28 +1,22 @@
 ---
 layout: page
-title: About
+title: Terminal Beach
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+### Technologies of the screen
 
-### Features
+Part diary, part logbook, part soapbox, this blog serves as a record of my ongoing encounter with screen-based networked communication technologies, both as a media researcher and teacher and in terms of everday experience. 
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+The title is inspired by J.G. Ballard's classic short story collection [*The Terminal Beach*](http://www.fantasyliterature.com/reviews/the-terminal-beach/) (1964), although "terminal" here refers more to the computer terminal as the dominant screen interface of the digital age.
 
-### Screenshot
+*Contact*  
+Email: dokoissho [at] protonmail.com  
+[Professional](https://mroberts.emerson.build)  
+[Mastodon](https://merveilles.town/web/accounts/6363)  
+[Gemini](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/~dokoissho/index.gmi)  
+[Twitter](https://www.twitter.com/mroberts333)  
+[Facebook](https://www.facebook.com/mr05301)  
 
-![Screenshot](screenshot.png)
+***
+
+© Martin Roberts 2021. MIT License
