@@ -32,7 +32,7 @@ For the parking supervisor, literally none of this was of the slightest importan
 
 We could not afford to pay that amount, we said. We had unexpectedly had to prolong our trip in Seoul and delay our return due to my wife's hospital visits. Given the circumstances, was there any chance of reducing the fee a little, or at least offering some kind of payment plan? 
 
-The African-American supervisor asked what was the minimum that we thought we could pay right now, so that after six weeks of hell we could get our car out of the parking lot and finally go home. My wife suggested $500, which was immediately rejected.
+The supervisor asked what was the minimum that we thought we could pay right now, so that after six weeks of hell we could get our car out of the parking lot and finally go home. My wife suggested $500, which was immediately rejected.
 
 The supervisor went to call his boss. It was suggested that if we could pay $1300, we could then be billed for the remaining amount. Since there was no alternative, my wife went off in search of an ATM to move funds around. 
 
