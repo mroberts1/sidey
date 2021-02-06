@@ -2,11 +2,22 @@
   
     {
 
+      "title"    : "Fear and Loathing at Logan Airport",
+      "url"      : "/2021/02/06/fear-loathing",
+      "category" : "",
+      "tags"     : "travel",
+      "date"     : "2021-02-06 00:00:00 -0500",
+      "description" : "Just read it"
+
+    } ,
+  
+    {
+
       "title"    : "Shiny Happy Templates",
       "url"      : "/2021/01/24/shiny-happy-templates",
       "category" : "",
       "tags"     : "webdev",
-      "date"     : "2021-01-24 00:00:00 +0900",
+      "date"     : "2021-01-24 00:00:00 -0500",
       "description" : "A year in web design"
 
     } ,
@@ -17,7 +28,7 @@
       "url"      : "/2021/01/18/forget-the-future",
       "category" : "",
       "tags"     : "future, seoul",
-      "date"     : "2021-01-18 00:00:00 +0900",
+      "date"     : "2021-01-18 00:00:00 -0500",
       "description" : ""
 
     } 
