@@ -1,4 +1,10 @@
-FEAR AND LOATHING AT LOGAN AIRPORT
+---
+layout: post
+title: Fear and Loathing at Logan Airport
+description: Being an account of our recent arrival in the U.S.
+comments: true
+tags: [travel]
+---
 
 "The Economy garage has been closed for over a year," the supervisor blithely assured us, as if the discussion ended there.
 
