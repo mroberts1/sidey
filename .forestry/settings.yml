@@ -16,10 +16,10 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: https://cloudinary.com/console/c-b80b283bd1738593e2d0923fe7f111/media_library/folders/dea98e23ea5cd9508a65551aab99a46b
+public_path: https://cloudinary.com/console/c-b80b283bd1738593e2d0923fe7f111/media_library/folders/dea98e23ea5cd9508a65551aab99a46b
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
