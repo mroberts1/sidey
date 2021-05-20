@@ -1,9 +1,8 @@
 ---
 layout: page
-title: ""
+title: "Event Horizon"
 ---
-
-Reports from the perpetual present.
+Dispatches from the perpetual present.
 
 *Contact*  
 Email: dokoissho [at] protonmail.com  

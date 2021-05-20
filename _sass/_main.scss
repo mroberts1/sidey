@@ -38,8 +38,8 @@ pre {
 	margin: 1rem 0;
 }
 
-.post h2:first-child, .project h2:first-child, .photo h2:first-child {
-	margin-top: 0;
+.post h3:first-child, .project h2:first-child, .photo h2:first-child {
+	margin-top: 0.2rem;
 }
 
 .meta {
@@ -86,7 +86,7 @@ header a {
 header li {
 	margin-bottom: .2rem;
 	text-align: right;
-	margin-right: 2rem;
+	margin-right: 0.5rem;
 }
 
 header a.active {

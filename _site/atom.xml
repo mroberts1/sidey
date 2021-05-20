@@ -4,7 +4,7 @@
  <title>Martin Roberts</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-05-03T10:13:36-04:00</updated>
+ <updated>2021-05-20T08:11:05-04:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -17,7 +17,7 @@
    <link href="/2021/01/24/shiny-happy-templates"/>
    <updated>2021-01-24T00:00:00-05:00</updated>
    <id>/2021/01/24/shiny-happy-templates</id>
-   <content type="html">&lt;h3 id=&quot;a-year-in-web-design&quot;&gt;A year in web design&lt;/h3&gt;
+   <content type="html">&lt;p&gt;&lt;strong&gt;A year in web design&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In the Spring of last year, while working at a university writing center in Jeonju, South Korea, I unexpectedly found myself with a lot of free evenings. Part of my job involved authoring an online study guide on academic writing in English for the center’s website. The process began with me authoring documents in Microsoft Word, which after receiving the director’s approval were outsourced to a web design company that converted them to HTML documents and uploaded them to the center’s website. I wasn’t too happy either with the generic design of the website or the absence of control over the design process itself, and for the first time in years  began experimenting with authoring content directly to web pages. Abandoning Microsoft Word other than for editing author manuscripts, I switched more or less overnight to authoring documents in &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; and converting them to whatever format was needed, whether docx, html, or pdf. I discovered that unlike people in humanities fields who continue to struggle with MS Word bloatware, scientists have been using Latex for decades to author beautifully-formatted manuscripts. I finally, belatedly discovered the work of &lt;a href=&quot;https://www.edwardtufte.com/tufte/courses&quot;&gt;Edward Tufte&lt;/a&gt;, whose name I’d sporadically come across over previous decades but whose contribution to the field of visual design I’ve only come to realize over the past year. I was particularly taken with the exquisite design of Tufte’s books and website, and - again for the first time - began scouring typography websites and hunting down font libraries to improve on the lackluster fonts that are standard on most websites.&lt;/p&gt;
 
