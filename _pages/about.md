@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Event Horizon"
+title: ""
 ---
-Dispatches from the perpetual present.
+![inertie polaire](/img/inertie-polaire.jpg "Polar Inertia")  
+The more things change, the more they stay the same.
 
 *Contact*  
 Email: dokoissho [at] protonmail.com  
